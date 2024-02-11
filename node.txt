@@ -1,0 +1,6 @@
+iniciando o node
+
+npm init -y
+npm install lite-server
+
+na pasta package.json trocar o atritubo "test para" "start" e o texto para "lite-server"
