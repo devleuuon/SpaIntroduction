@@ -1,5 +1,6 @@
 iniciando o node
 
+node -v
 npm init -y
 npm install lite-server
 
